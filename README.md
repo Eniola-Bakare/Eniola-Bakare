@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eniola-Bakare
-- 👀 I’m interested in everything design: Graphic designs/ UI/UX 
-- 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on UI/UX
+- 👀 I’m interested in everything Web Development
+- 🌱 I’m currently Front-end Development (React)
+<!-- - 💞️ I’m looking to collaborate on UI/UX -->
 - 📫 How to reach me eebakare@gmail.com 
 
 <!---
