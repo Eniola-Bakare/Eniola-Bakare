@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eniola-Bakare
 - 👀 I’m interested in everything Web Development
-- 🌱 I’m currently Front-end Development (React)
+- 🌱 I’m currently learning Front-end Development (React)
 <!-- - 💞️ I’m looking to collaborate on UI/UX -->
 - 📫 How to reach me eebakare@gmail.com 
 
